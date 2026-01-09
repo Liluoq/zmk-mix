@@ -12,7 +12,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - '`'
+  - '='
   - TAB
   - Q
   - W
@@ -57,7 +57,7 @@ layers:
   - SPACE
   - '-'
   - BACKSPACE
-  - {t: SPACE, h: '3'}
+  - {t: '`', h: '3'}
   - ENTER
   lower:
   - F12
@@ -74,47 +74,47 @@ layers:
   - F11
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - '~'
+  - UP ARROW
+  - KP EQUAL
+  - '{'
+  - '}'
+  - '7'
+  - '8'
+  - '9'
+  - +
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '-'
-  - '='
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT
+  - DOWN ARROW
+  - RIGHT ARROW
   - '['
   - ']'
+  - '4'
+  - '5'
+  - '6'
+  - KP MINUS
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - Ctl+LEFT ARROW
+  - CAPS
+  - Ctl+RIGHT ARROW
+  - (
+  - )
+  - '1'
+  - '2'
+  - '3'
+  - KP MULTIPLY
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Sft+Gui+4
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '0'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
