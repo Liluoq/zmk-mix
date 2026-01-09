@@ -12,7 +12,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - BSPC
+  - '`'
   - TAB
   - Q
   - W
@@ -49,14 +49,14 @@ layers:
   - .
   - /
   - RSHFT
-  - LCTRL
-  - MUTE
-  - LGUI
-  - lower
+  - LEFT ALT
+  - {t: raise, h: toggle}
+  - DELETE
+  - {t: SPACE, h: lower}
+  - LEFT GUI
   - SPACE
-  - SPACE
-  - raise
-  - RALT
+  - '-'
+  - BACKSPACE
   - {t: SPACE, h: '3'}
   - ENTER
   lower:
@@ -173,7 +173,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
