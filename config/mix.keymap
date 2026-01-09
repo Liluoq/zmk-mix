@@ -44,7 +44,7 @@
 
             sensor-bindings =
                 <&inc_dec_kp LEFT_ARROW RIGHT_ARROW>,
-                <&encoder_scroll>;
+                <&inc_dec_kp PG_UP PAGE_DOWN>;
         };
 
         lower_layer {
