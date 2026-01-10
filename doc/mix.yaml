@@ -54,11 +54,11 @@ layers:
   - DELETE
   - {t: SPACE, h: lower}
   - LEFT GUI
-  - SPACE
+  - ENTER
   - '-'
   - BACKSPACE
   - {t: '`', h: '3'}
-  - ENTER
+  - SPACE
   lower:
   - F12
   - F1
