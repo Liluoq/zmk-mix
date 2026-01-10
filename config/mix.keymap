@@ -41,7 +41,7 @@
 &kp TAB       &kp Q   &kp W   &kp E       &kp R         &kp T         &kp Y         &kp U      &kp I          &kp O    &kp P          &kp NON_US_BACKSLASH
 &kp CAPS      &kp A   &kp S   &kp D       &kp F         &kp G         &kp H         &kp J      &kp K          &kp L    &kp SEMICOLON  &kp SQT
 &kp LSHFT     &kp Z   &kp X   &kp C       &kp V         &kp B         &kp N         &kp M      &kp COMMA      &kp DOT  &kp FSLH       &kp RSHFT
-&kp LEFT_ALT  &tog 2          &kp DELETE  &lt 1 SPACE   &kp LEFT_GUI  &kp SPACE     &kp MINUS  &kp BACKSPACE           &lt 3 GRAVE    &kp ENTER
+&kp LEFT_ALT  &tog 2          &kp DELETE  &lt 1 SPACE   &kp LEFT_GUI  &kp ENTER     &kp MINUS  &kp BACKSPACE           &lt 3 GRAVE    &kp SPACE
             >;
 
             sensor-bindings =
@@ -60,7 +60,7 @@
 
             sensor-bindings =
                 <&inc_dec_kp LEFT_ARROW RIGHT_ARROW>,
-                <&encoder_scroll>;
+                <&inc_dec_kp UP_ARROW DOWN_ARROW>;
         };
 
         raise_layer {
