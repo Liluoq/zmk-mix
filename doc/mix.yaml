@@ -57,7 +57,7 @@ layers:
   - ENTER
   - '-'
   - BACKSPACE
-  - {t: Ctl+`, h: '3'}
+  - {t: '`', h: '3'}
   - SPACE
   lower:
   - F12
