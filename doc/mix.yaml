@@ -26,16 +26,16 @@ layers:
   - P
   - \
   - CAPS
-  - A
-  - S
-  - D
-  - F
+  - {t: A, h: LEFT SHIFT}
+  - {t: S, h: LEFT CONTROL}
+  - {t: D, h: LEFT ALT}
+  - {t: F, h: LEFT GUI}
   - G
   - H
-  - J
-  - K
-  - L
-  - ;
+  - {t: J, h: RIGHT GUI}
+  - {t: K, h: RIGHT ALT}
+  - {t: L, h: RIGHT CONTROL}
+  - {t: ;, h: RIGHT SHIFT}
   - ''''
   - LSHFT
   - Z
