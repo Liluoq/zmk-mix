@@ -49,15 +49,15 @@ layers:
   - .
   - /
   - RSHFT
-  - LEFT ALT
+  - GLOBE
   - {t: raise, h: toggle}
   - DELETE
   - {t: SPACE, h: lower}
-  - LEFT GUI
+  - {t: '`', h: SPACE}
   - ENTER
   - '-'
   - BACKSPACE
-  - {t: '`', h: '3'}
+  - {t: Ctl+UP ARROW, h: '3'}
   - SPACE
   lower:
   - F12
@@ -119,58 +119,58 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   raise:
-  - {t: ▽, type: trans}
-  - '!'
-  - '@'
-  - '#'
-  - $
-  - '%'
+  - ESC
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
   - ^
   - '&'
   - '*'
   - (
   - )
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - _
+  - TAB
+  - Q
+  - W
+  - E
+  - R
+  - T
   - +
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '|'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '{'
+  - CAPS
+  - A
+  - S
+  - D
+  - F
+  - G
   - '}'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - ':'
   - '"'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT SHIFT
+  - Z
+  - X
+  - C
+  - V
+  - B
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - <
   - '>'
   - '?'
   - {t: ▽, type: trans}
+  - LCTRL
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - DELETE
+  - SPACE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
