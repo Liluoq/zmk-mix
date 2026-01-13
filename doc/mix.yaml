@@ -25,19 +25,19 @@ layers:
   - O
   - P
   - \
-  - CAPS
-  - {t: A, h: LEFT SHIFT}
-  - {t: S, h: LEFT CONTROL}
-  - {t: D, h: LEFT ALT}
-  - {t: F, h: LEFT GUI}
+  - LEFT ALT
+  - A
+  - S
+  - D
+  - F
   - G
   - H
-  - {t: J, h: RIGHT GUI}
-  - {t: K, h: RIGHT ALT}
-  - {t: L, h: RIGHT CONTROL}
-  - {t: ;, h: RIGHT SHIFT}
+  - J
+  - K
+  - L
+  - ;
   - ''''
-  - LSHFT
+  - LCTRL
   - Z
   - X
   - C
@@ -49,15 +49,15 @@ layers:
   - .
   - /
   - RSHFT
-  - GLOBE
+  - DEL
   - {t: raise, h: toggle}
-  - DELETE
+  - LEFT SHIFT
   - {t: SPACE, h: lower}
-  - {t: '`', h: SPACE}
+  - LEFT GUI
   - ENTER
   - '-'
   - BACKSPACE
-  - {t: Ctl+UP ARROW, h: '3'}
+  - {t: Ctl+`, h: '3'}
   - SPACE
   lower:
   - F12
@@ -110,7 +110,7 @@ layers:
   - {t: ▽, type: trans}
   - Sft+Gui+4
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT SHIFT
   - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
