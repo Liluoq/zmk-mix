@@ -50,7 +50,7 @@ layers:
   - /
   - RSHFT
   - DEL
-  - {t: raise, h: toggle}
+  - GLOBE
   - LEFT SHIFT
   - {t: SPACE, h: lower}
   - LEFT GUI
